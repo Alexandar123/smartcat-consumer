@@ -1,0 +1,4 @@
+cluster.name: KafkaESCluster
+path.data: /smartcat/data
+path.logs: /smartcat/log
+path.plugins: /smartcat/plugins
